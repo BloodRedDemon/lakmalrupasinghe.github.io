@@ -1,4 +1,4 @@
-Daoyuan's homepage
+Lakmal's homepage
 ===================
 
-https://daoyuan14.github.io/
+https://lakmalrupasinghe.github.io/
